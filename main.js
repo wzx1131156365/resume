@@ -1,7 +1,7 @@
 let resume = `# 王泽西
-137xxxxxxxx | 1131156365@qq.com | 南京
-Profile: https://caijialinxx.github.io/resume/
-Github: https://github.com/Caijialinxx
+15538752566 | 1131156365@qq.com | 南京
+Profile: https://wzx1131156365.github.io/
+Github: https://github.com/wzx1131156365
 19届毕业生 | 前端开发工程师
 
 ## 专业技能
@@ -27,17 +27,11 @@ Github: https://github.com/Caijialinxx
 ### 简历生成器
 - 关键词：\`JavaScript\`、\`Promise\`、\`变速\`、\`过渡动画\`、\`盒阴影\`
 - 描述：该项目实现了一个 Markdown 简历的制作过程，在原生 JS 中使用 Promise 处理异步操作，利用 CSS3 实现过渡、动画、阴影和弹性布局等。
-- [源码链接](https://github.com/Caijialinxx/animating-resume/blob/master/main.js) | [预览链接](https://caijialinxx.github.io/animating-resume/)
+- [源码链接](https://github.com/wzx1131156365/wzx1131156365.github.io) | [预览链接](https://wzx1131156365.github.io/)
 
-### 炫主页
-- 关键词：\`jQuery\`、\`CSS3 过渡动画\`、\`组件化思想\`、\`MVC 思想\`、\`媒体查询\`、\`Sticky\`
-- 描述：此项目是本人的一个信息介绍页，包含基础信息、技能、项目展示以及留言板功能。有大量精美的动画，例如滚动时的导航栏及模块的浮起、导航栏 hover 动画、响应式设计等。
-- [源码链接](https://github.com/Caijialinxx/resume) | [预览链接](https://caijialinxx.github.io/resume/)
-
-### 幻灯片放映室
-- 关键词：\`jQuery\`、\`Loop模式\`、\`缩略图模式\`、\`Rem\`、\`适配移动端\`、\`ES6\`
-- 描述：本项目展示了两种不同风格的轮播，功能有上一张、下一张、可点击的原点/缩略图导航、自动循环播放。使用了 Rem 单位，以及适配移动端。
-- [源码链接](https://github.com/Caijialinxx/Slides/blob/master/main.js) | [预览链接](https://caijialinxx.github.io/Slides/)
+### Vue商场项目
+- 关键词：\`Vue\`、\`组件化思想\`、\`MVVM 思想\`、\`Mint-UI\`、\`axios\`、\`Vuex\`
+- 描述：此项目模仿某电商移动端手机app页面的制作，页面使用Mint-UI和MUI搭建而成，使用axios进行接口函数的封装并使用Vuex技术实现组件间的通信。
 
 ## 教育经历
 ### 南京工程学院
