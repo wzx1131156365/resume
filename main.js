@@ -29,6 +29,11 @@ Github: https://github.com/wzx1131156365
 - 描述：该项目实现了一个 Markdown 简历的制作过程，在原生 JS 中使用 Promise 处理异步操作，利用 CSS3 实现过渡、动画、阴影和弹性布局等。
 - [源码链接](https://github.com/wzx1131156365/wzx1131156365.github.io) | [预览链接](https://wzx1131156365.github.io/)
 
+### 彩色涂鸦
+- 关键词：\`HTML5\`、\`Canvas\`、\`ES6\`、\`JavaScript\`
+- 描述：使用 HTML5 的 Canvas 元素及其相关 API ，实现支持多指同时画图（可选色/粗细）、橡皮擦、一键清空、保存至本地的功能。
+- [源码链接](https://github.com/wzx1131156365/drawingBoard/) | [预览链接](https://wzx1131156365.github.io/drawingBoard/)
+
 ### Vue商场项目
 - 关键词：\`Vue\`、\`组件化思想\`、\`MVVM 思想\`、\`Mint-UI\`、\`axios\`、\`Vuex\`
 - 描述：此项目模仿某电商移动端手机app页面的制作，页面使用Mint-UI和MUI搭建而成，使用axios进行接口函数的封装并使用Vuex技术实现组件间的通信。
