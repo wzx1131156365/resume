@@ -7,21 +7,21 @@ Github: https://github.com/wzx1131156365
 ## 专业技能
 - HTML5, CSS3 & JavaScript
     - 掌握 div+css 的网页布局结构
+    - 掌握 canvas flex 等css3新特性
     - 能够使用原生 JavaScript 独立制作精美网页
 - Vue
-    - 有Vue 开发经验，掌握组件及组件间数据传递的使用、响应式原理、路由的使用等
-    - 有过Vue移动端开发的经历，掌握vuex，axios，Mint-UI，MUI等Vue插件的使用
+    - 掌握Vue基本指令、组件、路由等知识
+    - 使用过 axios、Vuex、Mint-UI、MUI 等 Vue 插件
+    - 能够使用 vue-cli 进行项目的搭建，git 代码提交和 webpack 项目打包
 - 移动端开发
-    - 掌握移动端web开发经验
-    - 熟悉响应式布局、 flex 伸缩盒子、常用组件的使用等，掌握 JSON 配置
-    - 熟悉微信小程序的开发
+    - 掌握移动端web开发
+    - 熟悉响应式布局、 flex 伸缩盒子、常用组件的使用等
 - 其他
-    - 熟悉 Git 常用命令、代码仓库协同工作流程等
     - 熟悉 jQuery 常用 API ，如 DOM 操作、特效、事件等
     - 熟悉 bootstrap的使用，了解bootstrap栅格系统以及响应式布局
+    - 熟悉 Git 常用命令、代码仓库协同工作流程等
     - 掌握 Photoshop的使用，可以完成基本的切图和抠图任务
-    - 理解 MVC 、 MVVM 思想，掌握 HTTP 基础等
-    - 使用 Webpack 打包项目的经验和github代码托管经验
+    - 理解 MVVM 思想，掌握 HTTP 基础等
 
 ## 项目经验
 ### 简历生成器
@@ -33,6 +33,11 @@ Github: https://github.com/wzx1131156365
 - 关键词：\`HTML5\`、\`Canvas\`、\`ES6\`、\`JavaScript\`
 - 描述：使用 HTML5 的 Canvas 元素及其相关 API ，实现支持多指同时画图（可选色/粗细）、橡皮擦、一键清空、保存至本地的功能。
 - [源码链接](https://github.com/wzx1131156365/drawingBoard/) | [预览链接](https://wzx1131156365.github.io/drawingBoard/)
+
+### 贪吃蛇小游戏
+- 关键词：\`JavaScript\`、\`面向对象\`
+- 描述：此项目是一个网页版的贪吃蛇小游戏，使用面向对象的编程思维，实现了基本的贪吃蛇功能
+- [源码链接](https://github.com/wzx1131156365/retroSnaker/) | [预览链接](https://wzx1131156365.github.io/retroSnaker/)
 
 ### Vue商场项目
 - 关键词：\`Vue\`、\`组件化思想\`、\`MVVM 思想\`、\`Mint-UI\`、\`axios\`、\`Vuex\`
