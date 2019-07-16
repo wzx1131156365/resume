@@ -1,6 +1,6 @@
 let resume = `# 王泽西
 15538752566 | 1131156365@qq.com | 南京
-Profile: https://wzx1131156365.github.io/
+Profile: https://wzx1131156365.github.io/resume/
 Github: https://github.com/wzx1131156365
 19届毕业生 | 前端开发工程师
 
@@ -13,8 +13,8 @@ Github: https://github.com/wzx1131156365
     - 有过Vue移动端开发的经历，掌握vuex，axios，Mint-UI，MUI等Vue插件的使用
 - 移动端开发
     - 掌握移动端web开发经验
-    - 熟悉 WXML 模版/事件、 JS 逻辑交互及常用 API 、常用组件的使用等，掌握 JSON 配置。
-    - 会使用 REM 、 vw / vh 、 媒体查询等技术制作适配手机设备的页面
+    - 熟悉响应式布局、 flex 伸缩盒子、常用组件的使用等，掌握 JSON 配置
+    - 熟悉微信小程序的开发
 - 其他
     - 熟悉 Git 常用命令、代码仓库协同工作流程等
     - 熟悉 jQuery 常用 API ，如 DOM 操作、特效、事件等
@@ -27,7 +27,7 @@ Github: https://github.com/wzx1131156365
 ### 简历生成器
 - 关键词：\`JavaScript\`、\`Promise\`、\`变速\`、\`过渡动画\`、\`盒阴影\`
 - 描述：该项目实现了一个 Markdown 简历的制作过程，在原生 JS 中使用 Promise 处理异步操作，利用 CSS3 实现过渡、动画、阴影和弹性布局等。
-- [源码链接](https://github.com/wzx1131156365/wzx1131156365.github.io) | [预览链接](https://wzx1131156365.github.io/)
+- [源码链接](https://github.com/wzx1131156365/resume) | [预览链接](https://wzx1131156365.github.io/resume/)
 
 ### 彩色涂鸦
 - 关键词：\`HTML5\`、\`Canvas\`、\`ES6\`、\`JavaScript\`
@@ -49,7 +49,7 @@ Github: https://github.com/wzx1131156365
 let code_ready = `/*
  * 嗨，我是王泽西。
  * 我想用代码给你展示一下我的个人简历～
- * 灵感来自：http://strml.net
+ * 这是我的简历预览地址：https://wzx1131156365.github.io/
  * 
  * 那么，我要开始啦...
  */
